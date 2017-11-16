@@ -14,17 +14,13 @@ def syracuse(x):
 #print(syracuse(137))
 r=3
 max=syracuse(3)[1]
-for i in range (3,301):
-   
-    
+for i in range (3,301): 
     if syracuse(i)[1]>max:
         max=syracuse(i)[1]
-      
         r=i
         
-print(max,r)
+print('le temps de vol max est de : ',max,' pour la valeur : ',r)
 
-print(syracuse(129)[1],syracuse(231)[1])
 
 
 
