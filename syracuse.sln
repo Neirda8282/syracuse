@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "syracuse", "syracuse\syracuse.pyproj", "{07E4DB97-7A20-4BE9-B4E8-B51668FB8CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E4DB97-7A20-4BE9-B4E8-B51668FB8CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E4DB97-7A20-4BE9-B4E8-B51668FB8CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7BF532-9BB7-422B-9B94-2D69A0D89DEF}
+	EndGlobalSection
+EndGlobal
